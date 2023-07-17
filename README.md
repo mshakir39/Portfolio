@@ -25,7 +25,7 @@ Make sure you have Node.js installed on your machine.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
+1. Clone the repository: `git clone https://github.com/mshakir39/portfolio.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Install the dependencies: `npm install`
 
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or inquiries, feel free to reach out to me through the contact form on my website or via email at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries, feel free to reach out to me through the contact form on my website or via email at [your-email@example.com](mailto:mshakir39@gmail.com).
