@@ -33,3 +33,22 @@ Make sure you have Node.js installed on your machine.
 
 To run the project in development mode, use the following command:
 
+npm run dev
+
+Open your browser and visit `http://localhost:3000` to see the website.
+
+### Deployment
+
+To deploy the project to a production environment, you can follow the deployment guides provided by Next.js or your preferred hosting platform.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or inquiries, feel free to reach out to me through the contact form on my website or via email at [your-email@example.com](mailto:your-email@example.com).
