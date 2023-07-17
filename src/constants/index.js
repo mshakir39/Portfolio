@@ -122,21 +122,18 @@ const experiences = [
   {
     title: 'React js Developer',
     company_name: 'BellMedex',
-    icon: coverhunt,
     iconBg: '#333333',
     date: 'Apr 2020 - Sep 2021',
   },
   {
     title: 'Software Engineer',
     company_name: 'Paxico Technology California',
-    icon: microverse,
     iconBg: '#333333',
     date: 'Sep 2021 - May 2022',
   },
   {
     title: 'Software Engineer',
     company_name: 'Paxico Islamabad',
-    icon: kelhel,
     iconBg: '#333333',
     date: 'May 2022 - Dec 2022',
   },
